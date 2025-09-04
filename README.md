@@ -54,7 +54,7 @@
 - **Customer Experience Enhancement**: Insights into customer preferences and satisfaction levels
 - **Scalable Analytics Framework**: Reusable dashboard template for ongoing analysis
 
-##Dashboard 
+## Dashboard
 <img width="1315" height="655" alt="Screenshot 2025-08-19 191526" src="https://github.com/user-attachments/assets/22007762-e739-4d11-b403-e507b1dc07ce" />
 
 
